@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @behemothisheretolearnprogramming
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning C,C#,C++ and JAVA
