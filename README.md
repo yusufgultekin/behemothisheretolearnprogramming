@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @yusufgultekin
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C,C#,C++ and JAVA
+- 🌱 I’m currently learning C#,C++ and Python
